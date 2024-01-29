@@ -20,4 +20,4 @@ def create_user(name, age, address):
 print(f'현재 가입된 유저수 : {number_of_people}')
 result = create_user('홍길동', 30, '서울')
 print(result)
-print(f'현재 가입된 유저수 : {number_of_people}')
+print(f'현재 가입된 유저수 : {number_of_people}')  
